@@ -1,4 +1,3 @@
-![MasterHead](https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 <h1 align="center">Hi 👋, I'm Subrat Shakya</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://studentlife.lincoln.ac.uk/files/2021/05/giphy-3.gif">
