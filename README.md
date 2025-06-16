@@ -4,20 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subratshakya&label=Profile%20views&color=0e75b6&style=flat" alt="subratshakya" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subratshakya" alt="subratshakya" /></a> </p>
 
-- 🔭 I’m currently working on [Expense_Tracker](https://github.com/subratshakya/Expense_Tracker)
-
-- 🌱 I’m currently learning **Node.JS, Express.JS,**
-
-- 👯 I’m looking to collaborate on [Crop_Predictor](https://github.com/subratshakya/Crop_Predictor)
-
-- 🤝 I’m looking for help with [Chat_Room](https://github.com/subratshakya/Chat_Room)
-
-- 💬 Ask me about **C,C++,Javascript,HTML,CSS,Python**
-
-- 📫 How to reach me **subratshakya20@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WDSgXtFFa5difuX9_bcRkLnPN-Ra_Cpq/view?usp=drive_link](https://drive.google.com/file/d/1WDSgXtFFa5difuX9_bcRkLnPN-Ra_Cpq/view?usp=drive_link)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/__su_brat_._._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__su_brat_._._" height="30" width="40" /></a>
