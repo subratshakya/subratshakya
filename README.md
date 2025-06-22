@@ -1,7 +1,14 @@
-About Me
+**About Me**
+
 Hi, I'm Subrat Shakya, a DSA enthusiast and a passionate full-stack web developer with a love for building scalable, user-friendly applications. With a strong foundation in both frontend and backend technologies, I enjoy working on projects that solve real-world problems. I'm constantly learning and exploring new tools and frameworks to stay updated with the latest industry trends.
 
-My Skills
+You can see my work at: https://portfolio-woad-kappa-67.vercel.app/
+
+<img align="right" alt="Coding" width="400" src="https://studentlife.lincoln.ac.uk/files/2021/05/giphy-3.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=subratshakya&label=Profile%20views&color=0e75b6&style=flat" alt="subratshakya" /> </p>
+
+**My Skills**
+
 <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"> 
 <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> 
 <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
